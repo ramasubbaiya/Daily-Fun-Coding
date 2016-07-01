@@ -27,7 +27,7 @@ public class Example1 {
 	}
 	
 	public static void main(String[] args) {
-		int[] numbers = new int[]{1,253,4,4};
+		int[] numbers = new int[]{1,2,3,4,5};
 		Example1 obj = new Example1();
 		obj.foo(numbers);
 	}
