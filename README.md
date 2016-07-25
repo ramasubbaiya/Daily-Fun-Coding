@@ -1,3 +1,3 @@
 # Daily Fun Coding
 
-Coding for life
+:bowtie: Coding for life
