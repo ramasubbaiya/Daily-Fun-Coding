@@ -16,6 +16,16 @@ public class Example57 {
 		return oddNums;
 	}
 	
+	public List<Integer> findEvenNumbers(List<Integer> nums) {
+		List<Integer> evenNums = new ArrayList<Integer>();
+		for(int num: nums) {
+			if(num%2 == 0) {
+				evenNums.add(num);
+			}
+		}	
+		return evenNums;
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
